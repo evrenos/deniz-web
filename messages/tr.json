@@ -173,14 +173,35 @@
     "workshops": {
         "title": "Eğitim ve Atölyeler",
         "content": "Ayrıca bazı dönemlerde bu alanlara ilgisi olan bireylere bir deneyim yaşatmak ve fayda sağlaması amacıyla kliniğimizde eğitim ve atölyeler düzenlenmektedir."
-    },
-    "closing": {
-        "content": "Daha fazla bilgiye ve Koridor Psikoloji ekibi tarafından sağlanan güncel makalelere, kurumsal duyurulara web sitemiz üzerinden de ulaşabilirsiniz."
-    },
-    "cta": {
-      "title": "Size Yardım Etmek İçin Buradayız",
-      "button": "Randevu Alın"
     }
+  },
+  "serviceDetails": {
+    "title": "Hizmet Detayları",
+    "subtitle": "Uzmanlık alanlarımız ve terapi süreçleri hakkında detaylı bilgiler.",
+    "individual": {
+      "title": "Bireysel Terapi",
+      "p1": "Bireysel terapi, kişinin kendi iç dünyasına yaptığı bir yolculuktur. Hayatın getirdiği zorluklar, geçmişin izleri veya geleceğe dair kaygılarla başa çıkma sürecinde güvenli bir alan sunar.",
+      "p2": "Kendi potansiyelinizi keşfetmek, duygusal dayanıklılığınızı artırmak ve kendinizle daha barışık bir yaşam sürmek için profesyonel destek alabilirsiniz."
+    },
+    "child": {
+      "title": "Çocuk ve Ergen Terapisi",
+      "p1": "Çocukluk ve ergenlik dönemi, hızlı bir değişim ve gelişim sürecidir. Bu dönemde karşılaşılan okul sorunları, akran zorbalığı veya aile içi geçiş süreçleri çocukların dünyasını etkileyebilir.",
+      "p2": "Oyun terapisi ve ergen odaklı yaklaşımlarla gençlerin kendilerini ifade etmelerine ve sağlıklı bir kimlik geliştirmelerine yardımcı oluyoruz."
+    },
+    "couple": {
+      "title": "Çift ve Aile Terapisi",
+      "p1": "İlişkiler, hayatımızın en önemli parçalarıdır. Ancak zaman zaman iletişim kopuklukları veya güven sarsıcı olaylar bağlarımızı zayıflatabilir.",
+      "p2": "Aile sistemine odaklanarak, her üyenin ihtiyaçlarını anlamayı ve ortak bir çözüm dili oluşturmayı hedefleyen bir süreçtir."
+    },
+    "online": {
+      "title": "Online Terapi",
+      "p1": "Mesafe veya yoğun programlar terapiye engel olmamalıdır. Gelişen teknoloji ile profesyonel desteğe kendi konfor alanınızdan ulaşabilirsiniz.",
+      "p2": "Güvenli platformlar üzerinden gerçekleştirilen oturumlar, yüz yüze terapi kadar etkili bir iyileşme süreci sunar."
+    }
+  },
+  "cta": {
+    "title": "Size Yardım Etmek İçin Buradayız",
+    "button": "Randevu Alın"
   },
   "therapistPage": {
     "about_title": "Hakkında",

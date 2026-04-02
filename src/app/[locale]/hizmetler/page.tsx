@@ -49,7 +49,7 @@ export default async function ServicesListingPage({
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {services.map((service) => (
-              <Link key={service.key} href={`/hizmetler/${service.slug}`}>
+              <Link key={service.key} href={`/hizmetler/detay#${service.key}`}>
                 <ServiceCard 
                   title={tHome(`items.${service.key}.title`)}
                   description={tHome(`items.${service.key}.description`)}

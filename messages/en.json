@@ -173,14 +173,35 @@
     "workshops": {
         "title": "Training and Workshops",
         "content": "Additionally, at certain periods, training and workshops are organized in our clinic to provide an experience and benefit to individuals interested in these fields."
-    },
-    "closing": {
-        "content": "You can also access more information, current articles provided by the Koridor Psychology team, and corporate announcements through our website."
-    },
-    "cta": {
-      "title": "We Are Here to Help You",
-      "button": "Book an Appointment"
     }
+  },
+  "serviceDetails": {
+    "title": "Service Details",
+    "subtitle": "Detailed information about our areas of expertise and therapy processes.",
+    "individual": {
+      "title": "Individual Therapy",
+      "p1": "Individual therapy is a journey into one's own inner world. It offers a safe space in the process of coping with life's challenges, the traces of the past, or anxieties about the future.",
+      "p2": "You can receive professional support to discover your own potential, increase your emotional resilience, and lead a life more at peace with yourself."
+    },
+    "child": {
+      "title": "Child and Adolescent Therapy",
+      "p1": "Childhood and adolescence is a process of rapid change and development. School problems, peer bullying, or intrafamily transition processes encountered during this period can affect children's worlds.",
+      "p2": "We help young people express themselves and develop a healthy identity through play therapy and adolescent-oriented approaches."
+    },
+    "couple": {
+      "title": "Couple and Family Therapy",
+      "p1": "Relationships are the most important parts of our lives. However, from time to time, communication breakdowns or trust-undermining events can weaken our bonds.",
+      "p2": "It is a process that focuses on the family system, aiming to understand the needs of each member and create a common language of solution."
+    },
+    "online": {
+      "title": "Online Therapy",
+      "p1": "Distance or busy schedules should not be an obstacle to therapy. With developing technology, you can reach professional support from your own comfort zone.",
+      "p2": "Sessions held through secure platforms offer a recovery process as effective as face-to-face therapy."
+    }
+  },
+  "cta": {
+    "title": "We Are Here to Help You",
+    "button": "Book an Appointment"
   },
   "therapistPage": {
     "about_title": "About",
