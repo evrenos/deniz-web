@@ -48,6 +48,7 @@ export default async function ServicePage({
 
   setRequestLocale(locale);
   const t = await getTranslations('servicePage');
+  const tNav = await getTranslations('nav');
 
   return (
     <main className="flex flex-col w-full">
@@ -55,11 +56,11 @@ export default async function ServicePage({
       <nav className="bg-primary-50 py-4 px-4 sm:px-6 lg:px-8 border-b border-primary-100">
         <div className="max-w-7xl mx-auto flex items-center text-sm text-secondary-500 gap-2">
           <Link href="/" className="hover:text-primary-600">
-            {useTranslations('nav')('home')}
+            {tNav('home')}
           </Link>
           <span>/</span>
           <Link href="/hizmetler" className="hover:text-primary-600">
-            {useTranslations('nav')('services')}
+            {tNav('services')}
           </Link>
           <span>/</span>
           <span className="text-secondary-900 font-medium">{t(`items.${slug}.title`)}</span>
