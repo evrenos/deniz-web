@@ -1,0 +1,223 @@
+{
+  "HomePage": {
+    "title": "Çanakkale'de Profesyonel Psikolojik Danışanlık",
+    "description": "Psikolog Deniz Sinanoğlu ile ruhsal yolculuğunuzda size eşlik eden, güvenli ve profesyonel bir alan.",
+    "hero": {
+      "cta": "Randevu Al"
+    },
+    "services": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Size özel çözümler ve terapi yaklaşımları",
+      "items": {
+        "individual": {
+          "title": "Bireysel Terapi",
+          "description": "Kaygı, depresyon ve kişisel gelişim süreçlerinde yanınızdayız."
+        },
+        "child": {
+          "title": "Çocuk ve Ergen Terapisi",
+          "description": "Gelişimsel süreçler ve duygusal zorluklarla başa çıkma desteği."
+        },
+        "couple": {
+          "title": "Çift ve Aile Terapisi",
+          "description": "İlişkilerdeki iletişimi güçlendirmek ve bağları onarmak için."
+        },
+        "online": {
+          "title": "Online Terapi",
+          "description": "Mekan sınırı olmaksızın, güvenli dijital platformlarda görüşme imkanı."
+        }
+      }
+    },
+    "about": {
+      "title": "Uzmanımız",
+      "name": "Deniz Sinanoğlu",
+      "role": "Psikolog / Aile Danışmanı",
+      "description": "20 yılı aşkın tecrübesiyle, bireylerin ve ailelerin hayatlarında kalıcı ve olumlu değişimler yaratmalarına yardımcı oluyorum. Çanakkale'deki kliniğimde modern terapi yöntemlerini empati ve profesyonellik ile birleştiriyorum.",
+      "cta": "Daha Fazla Bilgi"
+    },
+    "approach": {
+      "title": "Yaklaşımımız",
+      "subtitle": "Terapi Süreci Nasıl İşler?",
+      "items": {
+        "step1": {
+          "title": "Tanışma ve Değerlendirme",
+          "description": "İlk oturumda ihtiyaçlarınızı ve hedeflerinizi birlikte belirleriz."
+        },
+        "step2": {
+          "title": "Kişiye Özel Terapi Planı",
+          "description": "Size en uygun bilimsel yöntemlerle bir yol haritası oluştururuz."
+        },
+        "step3": {
+          "title": "Sürekli Destek ve Gelişim",
+          "description": "Süreç boyunca yanınızda olup, iyilik halinizi sürdürülebilir kılıyoruz."
+        }
+      }
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": {
+        "q1": {
+          "question": "İlk seans ne kadar sürer?",
+          "answer": "İlk seansımız tanışma ve genel değerlendirme odağında 50-60 dakika sürmektedir."
+        },
+        "q2": {
+          "question": "Seans sıklığı nasıl olmalıdır?",
+          "answer": "İhtiyaçlarınıza göre genellikle haftada bir görüşmeyi öneriyoruz, ancak bu süreç içinde birlikte güncellenebilir."
+        },
+        "q3": {
+          "question": "Online terapi etkili mi?",
+          "answer": "Evet, araştırmalar online terapinin birçok durumda yüz yüze terapi kadar etkili olduğunu göstermektedir."
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Ruh sağlığı, terapi ve kişisel gelişim üzerine güncel yazılar.",
+      "summary_title": "Özet",
+      "summary_disclaimer": "Bu yazı psikolojik süreçler hakkında genel bilgi verme amaçlıdır. Profesyonel destek için randevu alabilirsiniz.",
+      "items": {
+        "kaygi-ile-basa-cikma-yollari": {
+          "title": "Kaygı ile Başa Çıkma Yolları",
+          "description": "Günlük hayatta uygulayabileceğiniz pratik gevşeme egzersizleri ve zihinsel dönüşüm teknikleri.",
+          "content": "Kaygı, modern hayatın kaçınılmaz bir parçası gibi görünse de yönetilebilir bir durumdur. Bu yazımızda kaygıyla başa çıkmanın temel yollarını ele alıyoruz...",
+          "date": "24 Mart 2024"
+        },
+        "daha-iyi-bir-uyku-icin-oneriler": {
+          "title": "Daha İyi Bir Uyku İçin Öneriler",
+          "description": "Uyku hijyeni, huzurlu bir zihin ve fiziksel sağlık arasındaki derin bağı keşfedin.",
+          "content": "Kaliteli bir uyku, psikolojik dayanıklılığın temel taşıdır. İşte uykunuzu iyileştirmek için uzman önerileri...",
+          "date": "20 Mart 2024"
+        }
+      },
+      "cta": "Tümünü Gör"
+    },
+    "contact": {
+      "title": "İletişime Geçin",
+      "subtitle": "Randevu almak veya sorularınız için bize ulaşın.",
+      "form": {
+        "name": "Adınız Soyadınız",
+        "email": "E-posta Adresiniz",
+        "phone": "Telefon Numaranız",
+        "message": "Mesajınız",
+        "submit": "Gönder",
+        "success": "Mesajınız başarıyla gönderildi!",
+        "error": "Bir hata oluştu, lütfen tekrar deneyin."
+      },
+      "info": {
+        "address": "İsmetpaşa Mah. Atatürk Cad. No:123 Çanakkale / Merkez",
+        "phone": "+90 (286) 123 45 67",
+        "email": "info@denizsinanoglu.com"
+      }
+    }
+  },
+  "servicePage": {
+    "items": {
+      "cocuk-psikologu-canakkale": {
+        "title": "Çocuk Psikoloğu Çanakkale",
+        "description": "Çocukluk dönemi duygusal ve sosyal gelişim süreçlerinde çocuğunuza uzman desteği sağlıyoruz.",
+        "content": "Çocuk terapisi, oyun terapisi ve pedagojik danışmanlık ile çocukların dünyasına kapı açıyoruz."
+      },
+      "ergen-psikologu-canakkale": {
+        "title": "Ergen Psikoloğu Çanakkale",
+        "description": "Ergenlik dönemindeki değişimler ve zorluklarla başa çıkma konusunda destek sunuyoruz.",
+        "content": "Kimlik karmaşası, okul sorunları ve duygusal dalgalanmalar üzerine odaklı terapi süreci."
+      },
+      "yetiskin-psikologu-canakkale": {
+        "title": "Yetişkin Terapisi Çanakkale",
+        "description": "Bireysel zorluklarınızla başa çıkmanız için bilimsel ve empatik bir yaklaşım sunuyoruz.",
+        "content": "Kaygı, depresyon, stres yönetimi ve özgüven çalışmaları."
+      },
+      "aile-danismanligi-canakkale": {
+        "title": "Aile Danışmanlığı Çanakkale",
+        "description": "Aile içi iletişimi güçlendirmek ve çatışmaları çözmek için profesyonel destek.",
+        "content": "Çift terapisi ve aile sistemleri üzerine odaklı uzman danışmanlık."
+      }
+    },
+    "cta": "Hemen Randevu Al"
+  },
+  "servicesListing": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Size en uygun terapi yöntemini birlikte belirleyelim."
+  },
+  "aboutPage": {
+    "title": "Hakkımızda",
+    "subtitle": "Koridor Psikoloji ve Terapi Yaklaşımımız",
+    "hero": {
+      "title": "Koridor Psikoloji",
+      "subtitle": "Güvenli, Yargılayıcı Olmayan ve Empatik Bir Terapötik Zemin"
+    },
+    "philosophy": {
+      "title": "Hoşgeldiniz!",
+      "p1": "Özgürlük ve esenlik içindeki varoluşumuzu sınırlayabilen duygusal zorluklarımız, acı verici yaşam deneyimlerinden kaynak alır. Bu deneyimler, kimi durumlarda çocukluk tecrübemizdeki olağan akışı sekteye uğratırken, kimi zaman yetişkin yaşamlarımızda da bizimle birlikte kalabilir.",
+      "p2": "Psikoterapi, her birimizin farklı dokularda hissettiği endişe, depresyon, anlamsızlık, öz değer kaybı, öfke ve yas da dahil olmak üzere her türlü duyguyu keşfetmek için bir alan açar. Özetle, hissettiğimiz gibi hissetmemizin nedenleri vardır ve psikoterapi bu anlam üzerine yapılandırılır."
+    },
+    "founding": {
+      "title": "Kuruluş ve Misyon",
+      "content": "Bu karşılıklı keşif ve iyi oluş halini geri getirme sürecini, güvenli, yargılayıcı olmayan ve empatik bir terapötik zeminine oturtmayı amaçlayan Koridor Psikoloji, 2021 yılında Uzman Psikolog Hatice Karatepe Öztürk ve Uzman Psikolog Beliz Göncü tarafından kurulmuştur."
+    },
+    "methods": {
+      "title": "Ekoller ve Hizmetler",
+      "intro": "Kliniğimizde; çocuk, ergen, yetişkin, aile terapileri ve kurumsal danışmanlık hizmetleri verilmektedir.",
+      "specialties": [
+        "Şema Terapi",
+        "EMDR (Eye Movement Desensitization and Reprocessing)",
+        "Transaksiyonel Analiz",
+        "IFS (Internal Family Systems Therapy)",
+        "Bilişsel Davranışçı Terapi (BDT)",
+        "Deneyimsel Oyun Terapisi (DOT)",
+        "Theraplay",
+        "Mindfulness",
+        "Kabul ve Kararlılık Terapisi"
+      ],
+      "holistic": "Koridor Psikoloji’de, bütünsel çalışmanın oldukça kıymetli olduğu düşünülmekte, gereken durumlarda psikiyatri uzmanı, duyu bütünleme uzmanı, beslenme uzmanı, sosyal hizmet uzmanı, okul rehberlik birimleri ve eğitimciler ile koordine bir tedavi yaklaşımı yürütülmektedir."
+    },
+    "workshops": {
+        "title": "Eğitim ve Atölyeler",
+        "content": "Ayrıca bazı dönemlerde bu alanlara ilgisi olan bireylere bir deneyim yaşatmak ve fayda sağlaması amacıyla kliniğimizde eğitim ve atölyeler düzenlenmektedir."
+    },
+    "closing": {
+        "content": "Daha fazla bilgiye ve Koridor Psikoloji ekibi tarafından sağlanan güncel makalelere, kurumsal duyurulara web sitemiz üzerinden de ulaşabilirsiniz."
+    },
+    "cta": {
+      "title": "Size Yardım Etmek İçin Buradayız",
+      "button": "Randevu Alın"
+    }
+  },
+  "therapistPage": {
+    "about_title": "Hakkında",
+    "items": {
+      "deniz-sinanoglu": {
+        "name": "Deniz Sinanoğlu",
+        "role": "Klinik Psikolog / Aile Danışmanı",
+        "bio": "Hacettepe Üniversitesi Psikoloji bölümünden mezun olduktan sonra uzmanlığımı aile danışmanlığı üzerine tamamladım. 20 yıldır Çanakkale'de yüzlerce danışanımla iyileşme yolculuklarına eşlik ettim.",
+        "specialties": {
+          "title": "Uzmanlık Alanları",
+          "items": ["Bilişsel Davranışçı Terapi", "EMDR", "Çift Terapisi", "Oyun Terapisi"]
+        },
+        "education": {
+          "title": "Eğitim",
+          "items": ["Hacettepe Üniversitesi - Psikoloji (Lisans)", "Ege Üniversitesi - Klinik Psikoloji (Yüksek Lisans)"]
+        }
+      }
+    },
+    "cta": "Hemen Randevu Al"
+  },
+  "onlineTherapyPage": {
+    "title": "Online Terapi",
+    "subtitle": "Mesafe Tanımayan Profesyonel Destek",
+    "intro": "Online terapi, geleneksel yüz yüze terapinin avantajlarını dijital platformların esnekliğiyle birleştirir.",
+    "benefits": {
+      "title": "Neden Online Terapi?",
+      "item1": "Mekan Sınırı Yok",
+      "item2": "Zaman Tasarrufu",
+      "item3": "Konforlu Alan"
+    }
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "online": "Online Terapi",
+    "blog": "Blog",
+    "contact": "İletişim"
+  }
+}

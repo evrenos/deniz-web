@@ -1,0 +1,223 @@
+{
+  "HomePage": {
+    "title": "Professional Psychological Counseling in Çanakkale",
+    "description": "A safe and professional space accompanying you on your psychological journey with Psychologist Deniz Sinanoğlu.",
+    "hero": {
+      "cta": "Book an Appointment"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Tailored solutions and therapeutic approaches for you",
+      "items": {
+        "individual": {
+          "title": "Individual Therapy",
+          "description": "We are with you in processes of anxiety, depression, and personal growth."
+        },
+        "child": {
+          "title": "Child and Adolescent Therapy",
+          "description": "Support for developmental processes and coping with emotional challenges."
+        },
+        "couple": {
+          "title": "Couple and Family Therapy",
+          "description": "To strengthen communication in relationships and repair bonds."
+        },
+        "online": {
+          "title": "Online Therapy",
+          "description": "The opportunity to meet on secure digital platforms regardless of location."
+        }
+      }
+    },
+    "about": {
+      "title": "Our Expert",
+      "name": "Deniz Sinanoğlu",
+      "role": "Psychologist / Family Counselor",
+      "description": "With over 20 years of experience, I help individuals and families create lasting and positive changes in their lives. In my clinic in Çanakkale, I combine modern therapy methods with empathy and professionalism.",
+      "cta": "Learn More"
+    },
+    "approach": {
+      "title": "Our Approach",
+      "subtitle": "How Does the Therapy Process Work?",
+      "items": {
+        "step1": {
+          "title": "Introduction and Assessment",
+          "description": "In the first session, we identify your needs and goals together."
+        },
+        "step2": {
+          "title": "Tailored Therapy Plan",
+          "description": "We create a roadmap using the most appropriate scientific methods for you."
+        },
+        "step3": {
+          "title": "Continuous Support and Growth",
+          "description": "We stay by your side throughout the process, making your well-being sustainable."
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": {
+        "q1": {
+          "question": "How long does the first session last?",
+          "answer": "Our first session lasts 50-60 minutes, focusing on introduction and general assessment."
+        },
+        "q2": {
+          "question": "How frequent should the sessions be?",
+          "answer": "Depending on your needs, we generally recommend meeting once a week, but this can be updated together during the process."
+        },
+        "q3": {
+          "question": "Is online therapy effective?",
+          "answer": "Yes, research shows that in many cases, online therapy is as effective as face-to-face therapy."
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Current articles on mental health, therapy, and personal development.",
+      "summary_title": "Summary",
+      "summary_disclaimer": "This article is for general informational purposes about psychological processes. You can book an appointment for professional support.",
+      "items": {
+        "kaygi-ile-basa-cikma-yollari": {
+          "title": "Ways to Cope with Anxiety",
+          "description": "Practical relaxation exercises and mental transformation techniques you can apply in daily life.",
+          "content": "Anxiety might seem like an inevitable part of modern life, but it is manageable. In this article, we cover the basic ways to cope with anxiety...",
+          "date": "24 March 2024"
+        },
+        "daha-iyi-bir-uyku-icin-oneriler": {
+          "title": "Tips for Better Sleep",
+          "description": "Discover the deep connection between sleep hygiene, a peaceful mind, and physical health.",
+          "content": "Quality sleep is the cornerstone of psychological resilience. Here are expert tips to improve your sleep...",
+          "date": "20 March 2024"
+        }
+      },
+      "cta": "See All"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Contact us to book an appointment or for your questions.",
+      "form": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "message": "Your Message",
+        "submit": "Send",
+        "success": "Your message has been sent successfully!",
+        "error": "An error occurred, please try again."
+      },
+      "info": {
+        "address": "Ismetpasa Mah. Ataturk Cad. No:123 Canakkale / Center",
+        "phone": "+90 (286) 123 45 67",
+        "email": "info@denizsinanoglu.com"
+      }
+    }
+  },
+  "servicePage": {
+    "items": {
+      "cocuk-psikologu-canakkale": {
+        "title": "Child Psychologist Canakkale",
+        "description": "We provide expert support for your child during emotional and social development processes.",
+        "content": "Opening doors to children's worlds with child therapy, play therapy, and pedagogical counseling."
+      },
+      "ergen-psikologu-canakkale": {
+        "title": "Adolescent Psychologist Canakkale",
+        "description": "We offer support in dealing with changes and challenges during adolescence.",
+        "content": "A therapy process focused on identity confusion, school problems, and emotional fluctuations."
+      },
+      "yetiskin-psikologu-canakkale": {
+        "title": "Adult Therapy Canakkale",
+        "description": "We offer a scientific and empathetic approach to help you cope with your individual challenges.",
+        "content": "Anxiety, depression, stress management, and self-confidence studies."
+      },
+      "aile-danismanligi-canakkale": {
+        "title": "Family Counseling Canakkale",
+        "description": "Professional support to strengthen family communication and resolve conflicts.",
+        "content": "Expert consultancy focused on couple therapy and family systems."
+      }
+    },
+    "cta": "Book an Appointment Now"
+  },
+  "servicesListing": {
+    "title": "Our Services",
+    "subtitle": "Let's determine the most suitable therapy method for you together."
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "subtitle": "Koridor Psychology and Our Therapy Approach",
+    "hero": {
+      "title": "Koridor Psychology",
+      "subtitle": "A Safe, Non-Judgmental, and Empathetic Therapeutic Ground"
+    },
+    "philosophy": {
+      "title": "Welcome!",
+      "p1": "Our emotional challenges, which can limit our existence in freedom and well-being, originate from painful life experiences. These experiences sometimes disrupt the normal flow of our childhood experiences, and at times, they may stay with us into our adult lives.",
+      "p2": "Psychotherapy opens a space to explore all kinds of emotions, including anxiety, depression, meaninglessness, loss of self-worth, anger, and grief, which each of us feels in different textures. In summary, there are reasons why we feel the way we do, and psychotherapy is structured around this meaning."
+    },
+    "founding": {
+      "title": "Founding and Mission",
+      "content": "Aiming to base this process of mutual discovery and restoring well-being on a safe, non-judgmental, and empathetic therapeutic ground, Koridor Psychology was founded in 2021 by Specialist Psychologist Hatice Karatepe Öztürk and Specialist Psychologist Beliz Göncü."
+    },
+    "methods": {
+      "title": "Schools and Services",
+      "intro": "In our clinic, services for children, adolescents, adults, family therapies, and corporate consultancy are provided.",
+      "specialties": [
+        "Schema Therapy",
+        "EMDR (Eye Movement Desensitization and Reprocessing)",
+        "Transactional Analysis",
+        "IFS (Internal Family Systems Therapy)",
+        "Cognitive Behavioral Therapy (CBT)",
+        "Experiential Play Therapy (EPT)",
+        "Theraplay",
+        "Mindfulness",
+        "Acceptance and Commitment Therapy (ACT)"
+      ],
+      "holistic": "At Koridor Psychology, holistic work is considered highly valuable, and in necessary cases, a coordinated treatment approach is carried out with psychiatry specialists, sensory integration specialists, nutritionists, social workers, school guidance units, and educators."
+    },
+    "workshops": {
+        "title": "Training and Workshops",
+        "content": "Additionally, at certain periods, training and workshops are organized in our clinic to provide an experience and benefit to individuals interested in these fields."
+    },
+    "closing": {
+        "content": "You can also access more information, current articles provided by the Koridor Psychology team, and corporate announcements through our website."
+    },
+    "cta": {
+      "title": "We Are Here to Help You",
+      "button": "Book an Appointment"
+    }
+  },
+  "therapistPage": {
+    "about_title": "About",
+    "items": {
+      "deniz-sinanoglu": {
+        "name": "Deniz Sinanoğlu",
+        "role": "Clinical Psychologist / Family Counselor",
+        "bio": "After graduating from Hacettepe University's Psychology department, I completed my specialization in family counseling. For 20 years in Çanakkale, I have accompanied hundreds of clients on their healing journeys.",
+        "specialties": {
+          "title": "Areas of Expertise",
+          "items": ["Cognitive Behavioral Therapy", "EMDR", "Couple Therapy", "Play Therapy"]
+        },
+        "education": {
+          "title": "Education",
+          "items": ["Hacettepe University - Psychology (Bachelor's)", "Ege University - Clinical Psychology (Master's)"]
+        }
+      }
+    },
+    "cta": "Book an Appointment Now"
+  },
+  "onlineTherapyPage": {
+    "title": "Online Therapy",
+    "subtitle": "Professional Support Without Distances",
+    "intro": "Online therapy combines the advantages of traditional face-to-face therapy with the flexibility of digital platforms.",
+    "benefits": {
+      "title": "Why Online Therapy?",
+      "item1": "No Location Limits",
+      "item2": "Time Saving",
+      "item3": "Comfortable Space"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "online": "Online Therapy",
+    "blog": "Blog",
+    "contact": "Contact"
+  }
+}
